@@ -39,6 +39,14 @@ WinRAR | File archiver utility |
 Youtube-DLG | Download videos from youtube.com or other video platforms | 
 XAMPP | Apache-Webserver | 
 
+## Mobile Apps
+Name | Description | Additional Info
+-----|-------------|---------------
+Youtube Vanced | Modded adfree Android YouTube client
+Splitwise | Track bills and other shared expenses
+OSMAnd | Offline navigation
+
+
 ## Software I May Consider Using
 Name | Description | Additional Info
 -----|-------------|---------------
