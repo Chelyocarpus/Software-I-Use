@@ -45,6 +45,12 @@ Name | Description | Additional Info
 Youtube Vanced | Modded adfree Android YouTube client
 Splitwise | Track bills and other shared expenses
 OSMAnd | Offline navigation
+Musicolet | Media Player
+VLC | Media Player
+Shazam | Identify unknown songs
+Keepass2Andoid | Password manager
+Office Lens | Scan documents
+Lime | E-Scooter Sharing
 
 
 ## Software I May Consider Using
