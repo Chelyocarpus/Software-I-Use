@@ -23,7 +23,7 @@ Notepad++ | Text editor |
 OBS-Studio | Open source software for video recording and live streaming |
 paint.net | Image and photo editing software | 
 Path of Building | An offline build planner for Path of Exile |
-PDSsam | Easily merge .pdf files |
+PDFsam | Easily merge .pdf files |
 Playnite | Video game library manager |
 PNGGauntlet | PNG compression app |
 PoESkillTree | Offline Skilltree planner for Path of Exile |
