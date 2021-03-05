@@ -23,9 +23,11 @@ Notepad++ | Text editor |
 OBS-Studio | Open source software for video recording and live streaming |
 paint.net | Image and photo editing software | 
 Path of Building | An offline build planner for Path of Exile |
+PDSsam | Easily merge .pdf files |
 Playnite | Video game library manager |
 PNGGauntlet | PNG compression app |
 PoESkillTree | Offline Skilltree planner for Path of Exile |
+Power Automate Desktop | Automate tasks for Windows |
 PowerToys | Set of utilities for power users to tune and streamline their Windows experience |
 Radmin VPN | Virtual lan like hamachi | 
 Steam | Video game digital distribution service |
@@ -37,7 +39,8 @@ VLC | Video player
 WebmConverter | Edit and convert videos to .webm |
 WinRAR | File archiver utility |
 Youtube-DLG | Download videos from youtube.com or other video platforms | 
-XAMPP | Apache-Webserver | 
+XAMPP | Apache-Webserver |
+
 
 ## Mobile Apps
 Name | Description | Additional Info
