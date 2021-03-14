@@ -16,8 +16,10 @@ Greenshot | Screenshot program for windows |
 Handbrake | Multithreaded video transcoder |
 Icaros | Provides Windows Explorer thumbnails supported by FFmpeg | 
 Keepass | Password Manager |
+Krita | Krita is a professional FREE and open source painting program |
 Microsoft VS Code | Code Editor |
 Microsoft To Do | Cloud-based task management |
+Microsoft Power Automate | Dient zur Automatisierung von wiederkehrenden Aufgabe |
 MKVToolNix | Create, alter and inspect Matroska files |
 Notepad++ | Text editor | 
 OBS-Studio | Open source software for video recording and live streaming |
