@@ -19,7 +19,7 @@ Keepass | Password Manager |
 Krita | Krita is a professional FREE and open source painting program |
 Microsoft VS Code | Code Editor |
 Microsoft To Do | Cloud-based task management |
-Microsoft Power Automate | Dient zur Automatisierung von wiederkehrenden Aufgabe |
+Microsoft Power Automate Desktop | Automate tasks in windows |
 MKVToolNix | Create, alter and inspect Matroska files |
 Notepad++ | Text editor | 
 OBS-Studio | Open source software for video recording and live streaming |
@@ -29,7 +29,6 @@ PDFsam | Easily merge .pdf files |
 Playnite | Video game library manager |
 PNGGauntlet | PNG compression app |
 PoESkillTree | Offline Skilltree planner for Path of Exile |
-Power Automate Desktop | Automate tasks for Windows |
 PowerToys | Set of utilities for power users to tune and streamline their Windows experience |
 Radmin VPN | Virtual lan like hamachi | 
 Steam | Video game digital distribution service |
