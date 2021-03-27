@@ -55,6 +55,7 @@ Shazam | Identify unknown songs
 Keepass2Andoid | Password manager
 Office Lens | Scan documents
 Lime | E-Scooter Sharing
+Tachiyomi | Open-source manga reader | + Extensions
 
 
 ## Software I May Consider Using
