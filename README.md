@@ -17,6 +17,7 @@ Handbrake | Multithreaded video transcoder |
 Icaros | Provides Windows Explorer thumbnails supported by FFmpeg | 
 Keepass | Password Manager |
 Krita | Krita is a professional FREE and open source painting program |
+LinkShellExtension | Provides for the creation of Hardlinks, Junctions, Volume Mountpoints, and Symbolic Links |
 Microsoft VS Code | Code Editor |
 Microsoft To Do | Cloud-based task management |
 Microsoft Power Automate Desktop | Automate tasks in windows |
