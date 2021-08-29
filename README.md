@@ -15,7 +15,7 @@ GPU-Z | Provides information about video cards and GPUs |
 Greenshot | Screenshot program for windows |
 Handbrake | Multithreaded video transcoder |
 Icaros | Provides Windows Explorer thumbnails supported by FFmpeg | 
-Keepass | Password Manager |
+Keepass | Password Manager | Plugins: KeeAnywhere, QRCodeGenerator, YetAnotherFaviconDownloader
 Krita | Krita is a professional FREE and open source painting program |
 LinkShellExtension | Provides for the creation of Hardlinks, Junctions, Volume Mountpoints, and Symbolic Links |
 Microsoft VS Code | Code Editor |
