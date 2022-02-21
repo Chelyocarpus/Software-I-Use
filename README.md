@@ -10,6 +10,7 @@ BF2 Control Center |  Battlefield 2 server manager |
 Discord | Chat App |
 Dopamine | Audio Player |
 ffmpeg |  Cross-platform solution to record, convert and stream audio and video |
+Files | Alternative windows file explorer |
 F.lux | Adjust brightness of monitor depending on time |
 GPU-Z | Provides information about video cards and GPUs |
 Greenshot | Screenshot program for windows |
@@ -31,7 +32,8 @@ Playnite | Video game library manager |
 PNGGauntlet | PNG compression app |
 PoESkillTree | Offline Skilltree planner for Path of Exile |
 PowerToys | Set of utilities for power users to tune and streamline their Windows experience |
-Radmin VPN | Virtual lan like hamachi | 
+Radmin VPN | Virtual lan like hamachi |
+RunCat | A cute running cat animation on your windows taskbar. | Best software ever
 Steam | Video game digital distribution service |
 TreeSize | Display drive/folder sizes |
 Twitch Leecher | Download Twitch.tv VOD's |
@@ -56,11 +58,13 @@ Shazam | Identify unknown songs
 Keepass2Andoid | Password manager
 Office Lens | Scan documents
 Lime | E-Scooter Sharing
-Tachiyomi | Open-source manga reader | + Extensions
+TradingView | Stock market charts
 
 
 ## Software I May Consider Using
 Name | Description | Additional Info
 -----|-------------|---------------
 Photopea | Online photo editor | 
-RawTherapee | Raw image processing program  |
+RawTherapee | Raw image processing program |
+Quicklook | QuickLook enables a very quick preview of file contents by pressing the Spacebar. | Currently unsupported by Files |
+
