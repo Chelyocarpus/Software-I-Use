@@ -7,7 +7,8 @@ Name | Description | Additional Info
 7-Zip | Open .zip files | 
 AviSynth | Tool for video post-production |
 BF2 Control Center |  Battlefield 2 server manager |
-Discord | Chat App |
+Discord | Voice Communication & Chat App |
+Docker | Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers |
 Dopamine | Audio Player |
 ffmpeg |  Cross-platform solution to record, convert and stream audio and video |
 Files | Alternative windows file explorer |
@@ -35,6 +36,7 @@ PowerToys | Set of utilities for power users to tune and streamline their Window
 Radmin VPN | Virtual lan like hamachi |
 RunCat | A cute running cat animation on your windows taskbar. | Best software ever
 Steam | Video game digital distribution service |
+Tailscale | Used as an extension in Docker Desktop. Allows connections from outside. |
 TreeSize | Display drive/folder sizes |
 Twitch Leecher | Download Twitch.tv VOD's |
 Vivaldi | Browser with great customizability |
