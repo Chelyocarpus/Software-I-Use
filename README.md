@@ -22,7 +22,6 @@ Krita | Krita is a professional FREE and open source painting program |
 LinkShellExtension | Provides for the creation of Hardlinks, Junctions, Volume Mountpoints, and Symbolic Links |
 Microsoft VS Code | Code Editor |
 Microsoft To Do | Cloud-based task management |
-Microsoft Power Automate Desktop | Automate tasks in windows |
 MKVToolNix | Create, alter and inspect Matroska files |
 Notepad++ | Text editor | 
 OBS-Studio | Open source software for video recording and live streaming |
