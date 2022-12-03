@@ -23,6 +23,7 @@ LinkShellExtension | Provides for the creation of Hardlinks, Junctions, Volume M
 Microsoft VS Code | Code Editor |
 Microsoft To Do | Cloud-based task management |
 MKVToolNix | Create, alter and inspect Matroska files |
+NAPS2 | Scan documents to PDF with OCR & automatic alignment. Replacement for Window's default software. |
 Notepad++ | Text editor | 
 OBS-Studio | Open source software for video recording and live streaming |
 paint.net | Image and photo editing software | 
