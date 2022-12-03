@@ -33,11 +33,12 @@ PNGGauntlet | PNG compression app |
 PoESkillTree | Offline Skilltree planner for Path of Exile |
 PowerToys | Set of utilities for power users to tune and streamline their Windows experience |
 Radmin VPN | Virtual lan like hamachi |
-RunCat | A cute running cat animation on your windows taskbar. | Best software ever
+Spytify | Record songs via Spotify (with VB-CABLE) |
 Steam | Video game digital distribution service |
 Tailscale | Used as an extension in Docker Desktop. Allows connections from outside. |
 TreeSize | Display drive/folder sizes |
 Twitch Leecher | Download Twitch.tv VOD's |
+VB-CABLE | VB-CABLE is a virtual audio device working as virtual audio cable |
 Vivaldi | Browser with great customizability |
 Virtual Box | x86 and AMD64/Intel64 virtualization | 
 VLC | Video player
@@ -50,7 +51,6 @@ XAMPP | Apache-Webserver |
 ## Mobile Apps
 Name | Description | Additional Info
 -----|-------------|---------------
-Youtube Vanced | Modded adfree Android YouTube client
 Splitwise | Track bills and other shared expenses
 OSMAnd | Offline navigation
 Musicolet | Media Player
@@ -68,4 +68,4 @@ Name | Description | Additional Info
 Photopea | Online photo editor | 
 RawTherapee | Raw image processing program |
 Quicklook | QuickLook enables a very quick preview of file contents by pressing the Spacebar. | Currently unsupported by Files |
-
+Voicemeeter | Virtual Audio Mixer. Useful if needed |
