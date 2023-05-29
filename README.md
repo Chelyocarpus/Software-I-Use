@@ -12,6 +12,7 @@ Docker | Docker is a set of platform as a service (PaaS) products that use OS-le
 Dopamine | Audio Player |
 ffmpeg |  Cross-platform solution to record, convert and stream audio and video |
 Files | Alternative windows file explorer |
+Fire Toolbox | Useful ADB (Android Debug Bridge) tweaks that can be applied to Amazon's Fire Tablets
 F.lux | Adjust brightness of monitor depending on time |
 GPU-Z | Provides information about video cards and GPUs |
 Greenshot | Screenshot program for windows |
@@ -21,7 +22,7 @@ Keepass | Password Manager | Plugins: KeeAnywhere, QRCodeGenerator, YetAnotherFa
 Krita | Krita is a professional FREE and open source painting program |
 LinkShellExtension | Provides for the creation of Hardlinks, Junctions, Volume Mountpoints, and Symbolic Links |
 Microsoft VS Code | Code Editor |
-Microsoft To Do | Cloud-based task management |
+Microsoft To Do | Task management |
 MKVToolNix | Create, alter and inspect Matroska files |
 NAPS2 | Scan documents to PDF with OCR & automatic alignment. Replacement for Window's default software. |
 Notepad++ | Text editor | 
@@ -68,5 +69,5 @@ Name | Description | Additional Info
 -----|-------------|---------------
 Photopea | Online photo editor | 
 RawTherapee | Raw image processing program |
-Quicklook | QuickLook enables a very quick preview of file contents by pressing the Spacebar. | Currently unsupported by Files |
+SparkeShare | File sync via GitHub or self-hosted |
 Voicemeeter | Virtual Audio Mixer. Useful if needed |
