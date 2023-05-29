@@ -69,5 +69,5 @@ Name | Description | Additional Info
 -----|-------------|---------------
 Photopea | Online photo editor | 
 RawTherapee | Raw image processing program |
-SparkeShare | File sync via GitHub or self-hosted |
+SparkleShare | File sync via GitHub or self-hosted |
 Voicemeeter | Virtual Audio Mixer. Useful if needed |
