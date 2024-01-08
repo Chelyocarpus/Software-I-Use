@@ -7,8 +7,9 @@ Name | Description | Additional Info
 7-Zip | Open .zip files | 
 AviSynth | Tool for video post-production |
 BF2 Control Center |  Battlefield 2 server manager |
+Cyberduck | Libre server and cloud storage browser | Cloudflare R2 (AWS S3)
 Discord | Voice Communication & Chat App |
-Docker | Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers |
+Docker | OS-level virtualization to deliver software in packages called containers | Paperless, Photoprism
 Dopamine | Audio Player |
 ffmpeg |  Cross-platform solution to record, convert and stream audio and video |
 Files | Alternative windows file explorer |
@@ -19,6 +20,7 @@ Greenshot | Screenshot program for windows |
 Handbrake | Multithreaded video transcoder |
 Icaros | Provides Windows Explorer thumbnails supported by FFmpeg | 
 Keepass | Password Manager | Plugins: KeeAnywhere, QRCodeGenerator, YetAnotherFaviconDownloader
+Kopia | Fast and Secure Open-Source Backup Software | Cloudflare R2 (AWS S3)
 Krita | Krita is a professional FREE and open source painting program |
 LinkShellExtension | Provides for the creation of Hardlinks, Junctions, Volume Mountpoints, and Symbolic Links |
 Microsoft VS Code | Code Editor |
