@@ -7,7 +7,6 @@ Name | Description | Additional Info
 7-Zip | Open .zip files | 
 AviSynth | Tool for video post-production |
 BF2 Control Center |  Battlefield 2 server manager |
-Cyberduck | Libre server and cloud storage browser | Cloudflare R2 (AWS S3)
 Discord | Voice Communication & Chat App |
 Docker | OS-level virtualization to deliver software in packages called containers | Paperless, Photoprism
 Dopamine | Audio Player |
@@ -20,7 +19,6 @@ Greenshot | Screenshot program for windows |
 Handbrake | Multithreaded video transcoder |
 Icaros | Provides Windows Explorer thumbnails supported by FFmpeg | 
 Keepass | Password Manager | Plugins: KeeAnywhere, QRCodeGenerator, YetAnotherFaviconDownloader
-Kopia | Fast and Secure Open-Source Backup Software | Cloudflare R2 (AWS S3)
 Krita | Krita is a professional FREE and open source painting program |
 LinkShellExtension | Provides for the creation of Hardlinks, Junctions, Volume Mountpoints, and Symbolic Links |
 Microsoft VS Code | Code Editor |
@@ -39,6 +37,7 @@ PowerToys | Set of utilities for power users to tune and streamline their Window
 Radmin VPN | Virtual lan like hamachi |
 Spytify | Record songs via Spotify (with VB-CABLE) |
 Steam | Video game digital distribution service |
+Syncthing | Continuous file synchronization | Syncing music files. Using SyncTrayzor v2 on PC and Syncthing-fork on Android
 Tailscale | Used as an extension in Docker Desktop. Allows connections from outside. |
 TreeSize | Display drive/folder sizes |
 Twitch Leecher | Download Twitch.tv VOD's |
@@ -48,8 +47,7 @@ Virtual Box | x86 and AMD64/Intel64 virtualization |
 VLC | Video player
 WebmConverter | Edit and convert videos to .webm |
 WinRAR | File archiver utility |
-Youtube-DLG | Download videos from youtube.com or other video platforms | 
-XAMPP | Apache-Webserver |
+Youtube-DLG | Download videos from youtube.com or other video platforms |
 
 
 ## Mobile Apps
@@ -65,11 +63,17 @@ Office Lens | Scan documents
 Lime | E-Scooter Sharing
 TradingView | Stock market charts
 
+## Software Currently Not In Use
+Name | Description | Additional Info
+-----|-------------|---------------
+Cyberduck | Libre server and cloud storage browser | Cloudflare R2 (AWS S3)
+Kopia | Fast and Secure Open-Source Backup Software | Cloudflare R2 (AWS S3)
+XAMPP | Apache-Webserver |
+
 
 ## Software I May Consider Using
 Name | Description | Additional Info
 -----|-------------|---------------
 Photopea | Online photo editor | 
 RawTherapee | Raw image processing program |
-SparkleShare | File sync via GitHub or self-hosted |
 Voicemeeter | Virtual Audio Mixer. Useful if needed |
